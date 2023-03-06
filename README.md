@@ -18,6 +18,6 @@ Join the waiting list today and get ready to take your photography to the next l
 ![samplerun](https://user-images.githubusercontent.com/43397999/223282668-47f483fe-4523-49da-8d20-82b879f80089.gif)
 
 ## Website link
-Try out the website yourself here! asdf
+Try out the website yourself here! https://fotomatic-camera.netlify.app/
 
 Let me know what you think at parkzen68@gmail.com
