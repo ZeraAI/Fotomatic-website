@@ -4,17 +4,17 @@
   <link href="https://fonts.googleapis.com/css?family=Damion" rel="stylesheet">
   <link href="https://fonts.googleapis.com/css?family=Rubik" rel="stylesheet">
   <link href="https://fonts.googleapis.com/css?family=Roboto:300,400,600,700" rel="stylesheet">
-  <link rel="stylesheet" href="./resources/css/reset.css">
+  <link rel="stylesheet" href="./resources/css/style.css">
   <meta charset="UTF-8">
 </head>
 <body>
   <!-- Header -->
   <header>
     <div class="content">
-      <a href="index.html" class="desktop logo">Fotomatic</a>
+      <a href="index.html" class="desktop-logo">Fotomatic</a>
       <nav class="desktop">
-        <ul>
-          test
+        <ul style="float: right;">
+          <li class="invisibleAmp">&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&</li>
           <li><a href="#">Product detail</a></li>
           <li><a href="#">About us</a></li>
           <li><a href="https://www.instagram.com/">Follow us <img class="icon" src="./resources/images/instagram.png"></a></li>
@@ -43,8 +43,8 @@
             <h1 class="striking">FORMAT CAMERA</h1>
           </div>
           <div class="email">
-            <span>
-              Email us to request a demo and be in our waiting list for the <strong>Febuary 2017</strong> release!
+            <span class="email-us">
+              Email us to request a demo and be in our waiting list for the <strong>Febuary 2024</strong> release!
             </span>
             <div class="button">Join the waiting list</div>
           </div>
@@ -57,7 +57,8 @@
       <div class="feature">
         <div class="center">
           <div class="image-container">
-            <img src="images/feature-1.png" />
+            <img src="./resources/images/feature-1.png"
+            style="width: 90%; height: 65%;" />
           </div>
           <div class="content">
             <h2>Advanced, automatic, instant</h2>
@@ -68,7 +69,8 @@
       <div class="feature">
         <div class="center">
           <div class="image-container">
-            <img src="images/feature-2.png" />
+            <img src="./resources/images/feature-2.png"
+            style="width: 90%; height: 65%;" />
           </div>
           <div class="content">
             <h2>Beautifully crafted inside-out</h2>
@@ -80,11 +82,13 @@
 
     <!-- Filters Section -->
     <div id="filters-section">
-      <div class="content center">
+      <div class="content center content">
         <h2>Over 20+ filters to choose from</h2>
         <h3>Feed your creativity with 20 different filter designed by our eclectic in-house photographers!</h3>
       </div>
-      <div class="images-container">
+      <div class="images-container"
+      style="display: flex;
+      justify-content: center;">
         <div class="image-container">
           <img src="./resources/images/filter-1.png" />
         </div>
@@ -100,7 +104,7 @@
       </div>
     </div>
 
-    <!-- Quotes Section
+    <!-- Quotes Section -->
     <div id="quotes-section">
       <div class="content center">
         <span class="quote">“It’s truly something that could create a brand new photography Renaissance”</span>
@@ -111,8 +115,8 @@
     <!-- Footer -->
     <footer>
       <div class="content">
-        <span class="copyright">© 2016  Fotomatic, All Rights Reserved</span>
-        <span class="location">Designed in NYC</span>
+        <span class="copyright">© 2023  Zen Technology, All Rights Reserved</span>
+        <span class="credit glowing-text">Designed by Zen</span>
       </div>
     </footer>
 
