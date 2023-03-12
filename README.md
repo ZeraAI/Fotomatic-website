@@ -1,6 +1,6 @@
 # The Future of Photography: Introducing Fotomatic's Instant Format Camera
 
-Are you tired of waiting for your camera's slow processing time? Do you want to take your photography to the next level? Look no further, as Fotomatic has arrived to revolutionize the world of photography.
+Are you tired of waiting for your camera's slow processing time? Do you want to take your photography to the next level? Look no further, as [Fotomatic](https://fotomatic-camera.netlify.app/) has arrived to revolutionize the world of photography.
 
 Fotomatic's instant format camera is a game-changer in the industry. With advanced, automatic features, you can say goodbye to adjusting shutter speed, aperture, and flash output yourself. The camera will do it all for you, providing you with the perfect shot every time.
 
@@ -12,7 +12,7 @@ The Photography Society has already acknowledged Fotomatic's instant format came
 
 Don't miss out on the chance to be one of the first to own this revolutionary camera. Fotomatic will be releasing the camera in February 2024 and they're now accepting email requests for demos and adding people to their waiting list.
 
-Join the waiting list today and get ready to take your photography to the next level with Fotomatic's instant format camera.
+Join the waiting list today and get ready to take your photography to the next level with Fotomatic's instant format camera. https://fotomatic-camera.netlify.app/
 
 ## Sample run
 ![samplerun](https://user-images.githubusercontent.com/43397999/223282668-47f483fe-4523-49da-8d20-82b879f80089.gif)
